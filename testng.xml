@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression_TestSuite" parallel="false">
+<!--- Pass test data file name at run time which get captured in test case with data provider --> 
+<parameter name="TestFileName" value="projectModule1/Regression" />
+  <test name="Regression_Tests">
+    <classes>
+    	<class name="com.scripts.projectModule1.ExampleScriptWeb"/>  
+    </classes> 
+  </test> <!-- Regression -->
+</suite> <!-- Regression -->
