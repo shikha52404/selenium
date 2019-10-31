@@ -25,7 +25,7 @@
 		<selenium.chrome.version>2.48.2</selenium.chrome.version>
 		<selenium.support.version>2.48.2</selenium.support.version>
 		<appium.version>3.2.0</appium.version>
-		<httpclient.version>4.3.5</httpclient.version>
+		<httpclient.version>4.3.6</httpclient.version>
 		<!-- Testng -->
 		<testng.version>6.9.6</testng.version>
 		<!-- Excel -->
