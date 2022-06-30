@@ -35,7 +35,7 @@
 		<dom4j.version>1.6.1</dom4j.version>
 		<xmlbeans.version>2.6.0</xmlbeans.version>
 		<!-- Pdf -->
-		<itext.version>5.5.8</itext.version>
+		<itext.version>5.5.12</itext.version>
 		<itext-lowagie.version>2.1.7</itext-lowagie.version>
 		<!-- xml reporting -->
 		<xml-apis.version>1.4.01</xml-apis.version>
